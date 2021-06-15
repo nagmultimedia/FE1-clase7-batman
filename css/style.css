@@ -1,0 +1,64 @@
+.header {
+  background-color: rgba(229, 229, 229, 1);
+}
+
+.italiquita {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.tabulado {
+  margin-left: 80px;
+}
+
+h1,
+h3 {
+  color: rgba(0, 86, 119, 1);
+  background-color: rgba(196, 196, 196, 1);
+  margin: 0px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+h1 {
+  margin-bottom: 80px;
+  text-align: center;
+}
+
+h3 {
+}
+
+.central {
+  width: 80%;
+  margin: 0 auto;
+  display: block;
+}
+
+.foot {
+  background-color: rgba(0, 86, 119, 1);
+  margin-top: 100px;
+  height: 25px;
+  padding-top: 5px;
+}
+
+.red_social {
+  display: block;
+  float: left;
+  margin-left: 20px;
+}
+
+.footer {
+  color: white;
+  display: block;
+  width: 120px;
+  float: left;
+  text-align: center;
+}
+
+.contenedor-footer {
+  display: block;
+  width: 200px;
+  margin: 0 auto;
+}
