@@ -1,0 +1,49 @@
+/* @use */
+body .header img {
+  display: block;
+  margin: 0 auto;
+}
+
+body .central ul li .italiquita {
+  font-weight: bold;
+  font-style: italic;
+}
+
+body .central ul li .tabulado {
+  margin-left: 80px;
+}
+
+body .foot {
+  background-color: #005677;
+  margin-top: 100px;
+  height: 25px;
+  padding-top: 5px;
+}
+
+body .foot .contenedor-footer {
+  display: block;
+  width: 200px;
+  margin: 0 auto;
+}
+
+body .foot .contenedor-footer .red_social {
+  display: block;
+  float: left;
+  margin-left: 20px;
+}
+
+body .foot .contenedor-footer .footer {
+  color: white;
+  display: block;
+  width: 120px;
+  float: left;
+  text-align: center;
+}
+
+h1,
+h3 {
+  color: #005677;
+  background-color: #c4c4c4;
+  margin: 0px;
+}
+/*# sourceMappingURL=style.css.map */

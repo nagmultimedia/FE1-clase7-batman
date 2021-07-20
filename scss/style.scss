@@ -1,0 +1,61 @@
+/* @use */ 
+
+body {
+	.header {
+		img {
+			display: block;
+			margin: 0 auto;
+		}
+	}
+
+	.central {
+		ul {
+			li{
+				.italiquita {
+					font-weight: bold;
+					font-style: italic;
+				}
+
+				.tabulado {
+					margin-left: 80px;
+				  }
+			}
+		}
+	}
+
+	.foot {
+		background-color: rgba(0, 86, 119, 1);
+		margin-top: 100px;
+		height: 25px;
+		padding-top: 5px;
+
+		.contenedor-footer {
+			display: block;
+			width: 200px;
+			margin: 0 auto;
+
+			.red_social {
+				display: block;
+				float: left;
+				margin-left: 20px;
+			  }
+			  
+			  .footer {
+				color: white;
+				display: block;
+				width: 120px;
+				float: left;
+				text-align: center;
+			  }
+
+		  }
+	}
+}
+
+h1,
+h3 {
+  color: rgba(0, 86, 119, 1);
+  background-color: rgba(196, 196, 196, 1);
+  margin: 0px;
+}
+
