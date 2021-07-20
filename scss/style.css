@@ -15,9 +15,12 @@ body .central ul li .tabulado {
 
 body .foot {
   background-color: #005677;
-  margin-top: 100px;
+  margin-top: 30px;
   height: 25px;
   padding-top: 5px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 body .foot .contenedor-footer {

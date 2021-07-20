@@ -25,9 +25,12 @@ body {
 
 	.foot {
 		background-color: rgba(0, 86, 119, 1);
-		margin-top: 100px;
+		margin-top: 30px;
 		height: 25px;
 		padding-top: 5px;
+		position: fixed;
+		bottom: 0;
+		width: 100%;
 
 		.contenedor-footer {
 			display: block;
